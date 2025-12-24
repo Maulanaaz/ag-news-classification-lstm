@@ -40,7 +40,8 @@ The project uses the benchmark **AG News Dataset**.
 The repository is organized to separate data processing, model definition, and training logic for reproducibility.
 
 ```text
-├── notebooks/              # Jupyter Notebooks (Original experimentation)
+├── notebook/              # Jupyter Notebooks (Original experimentation)
+│   ├── notebook-ag-news-classification.ipynb
 ├── src/                    # Source code modules
 │   ├── preprocessing.py    # Text cleaning (Regex, Stopwords) & Tokenization
 │   ├── model.py            # LSTM Architecture definition
