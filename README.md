@@ -71,3 +71,7 @@ With the model accuracy plot :
 And model loss plot :
 
 ![model_accuracy](https://github.com/Maulanaaz/ag-news-classification-lstm/blob/main/results/model_loss.png)
+
+## 📬 Contact
+Created by **Maulana Zulfikar Aziz**
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maulanaaz)
