@@ -67,3 +67,11 @@ After training the model, it achieved the following performance on the Test Set:
 |87.1%                | 0.38 |
 
 > (Note: The accuracy score above is based on the final evaluation on unseen test data.)
+
+With the model accuracy plot :
+
+![model_accuracy](https://github.com/Maulanaaz/ag-news-classification-lstm/blob/main/results/model_accuracy.png)
+
+And model loss plot :
+
+![model_accuracy](https://github.com/Maulanaaz/ag-news-classification-lstm/blob/main/results/model_loss.png)
