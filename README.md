@@ -61,8 +61,8 @@ The model is built using TensorFlow/Keras with the following sequential layers:
 
 ## 📊 Results & Performance
 After training the model, it achieved the following performance on the Test Set:
-| MetricScoreAccuracy | Loss |
+| Accuracy | Loss |
 | :--- | :--- |
-|92.5%                | 0.24 |
+|87.1%                | 0.38 |
 
 > (Note: The accuracy score above is based on the final evaluation on unseen test data.)
