@@ -42,10 +42,6 @@ The repository is organized to separate data processing, model definition, and t
 ```text
 ├── notebook/              # Jupyter Notebooks (Original experimentation)
 │   ├── notebook-ag-news-classification.ipynb
-├── src/                    # Source code modules
-│   ├── preprocessing.py    # Text cleaning (Regex, Stopwords) & Tokenization
-│   ├── model.py            # LSTM Architecture definition
-│   └── train.py            # Training loop and model saving
 ├── results/                # Evaluation metrics and plots
 │   └── model_accuracy.png
 │   ├── model_loss.png
