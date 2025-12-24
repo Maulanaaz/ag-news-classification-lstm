@@ -1,7 +1,7 @@
 # 📰 AG News Classification using LSTM
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20.0-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📌 Project Overview
